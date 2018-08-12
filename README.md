@@ -4,9 +4,9 @@ Example airflow plugin with custom operator.
 
 # Installation
 
-Copy content of *plugins* directory to [plugins] directory in airflow home directory.
+Copy content of *plugins* directory to [plugins]() directory in airflow home directory.
 
-You can also copy example dag from directory [dags] to dags directory in airflow home folder.
+You can also copy example dag from directory [dags]() to dags directory in airflow home folder.
 
 # Testing
 
